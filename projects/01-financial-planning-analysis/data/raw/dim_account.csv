@@ -1,0 +1,6 @@
+account_id,account,type
+1,Revenue,Income
+2,People Cost,Expense
+3,Marketing Expense,Expense
+4,Technology Expense,Expense
+5,Other Expenses,Expense
